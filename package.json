@@ -1,0 +1,20 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "Typescript nodejs api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriagopian/weather-api.git"
+  },
+  "keywords": [],
+  "author": "Yuri Agopian Brandeliki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriagopian/weather-api/issues"
+  },
+  "homepage": "https://github.com/yuriagopian/weather-api#readme"
+}
